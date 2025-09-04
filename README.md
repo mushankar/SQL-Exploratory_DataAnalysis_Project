@@ -6,22 +6,22 @@ The repository covers end-to-end data exploration, KPI generation, magnitude ana
 ---
 
 ## 📂 Repository Structure
-SQL-EDA-Project/
-│
-├── Datasets/                     # CSV data + SQL backup file
-│   ├── sales_data.csv
-│   └── DataWarehouseAnalytics.bak
-│
-├── Reference_Materials/           # Supporting visuals, keywords, and notes
-│   └── analysis_keywords.png
-│
-├── Exploration_Analysis_Scripts/  # All SQL scripts for analysis
-│   ├── 1_Exploration.sql
-│   ├── 2_KeyMetrics_Report.sql
-│   ├── 3_Magnitude_Analysis.sql
-│   └── 4_Ranking_Analysis.sql
-│
-└── README.md
+
+  SQL-EDA-Project/
+  ├── Datasets/                     # CSV data + SQL backup file
+  │   ├── sales_data.csv
+  │   └── DataWarehouseAnalytics.bak
+  │
+  ├── Reference_Materials/           # Supporting visuals, keywords, and notes
+  │   └── analysis_keywords.png
+  │
+  ├── Exploration_Analysis_Scripts/  # All SQL scripts for analysis
+  │   ├── 1_Exploration.sql
+  │   ├── 2_KeyMetrics_Report.sql
+  │   ├── 3_Magnitude_Analysis.sql
+  │   └── 4_Ranking_Analysis.sql
+  │
+  └── README.md
 
 ## 🗂️ Workflow of SQL Scripts
 
