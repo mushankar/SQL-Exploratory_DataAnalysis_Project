@@ -45,7 +45,7 @@ The analysis is designed as a **progressive flow**. Each script builds on the pr
 
 Click below to view supporting visual reference for this project:
 
-[![Reference Keywords](Reference_Materials/analysis_keywords.png)](Reference_Materials/)
+[![Reference Keywords](Reference_Materials/analysis_keywords.jpg)](Reference_Materials/)
 
 ---
 
