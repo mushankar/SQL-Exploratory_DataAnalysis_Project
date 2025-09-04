@@ -9,7 +9,9 @@ The repository covers end-to-end data exploration, KPI generation, magnitude ana
 
 **Root Directory**
 - `Datasets/` → Contains raw data and backup files  
-  - `sales_data.csv`  
+  - `gold.dim_customers.csv`
+  - `gold.dim_products.csv`
+  - `gold.fact_sales.csv`
   - `DataWarehouseAnalytics.bak`
 
 - `Reference_Materials/` → Supporting visuals, keywords, and notes  
